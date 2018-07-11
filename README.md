@@ -1,5 +1,5 @@
 # sentiment-analysis-twitter-textblob
-[![npm](https://img.shields.io/badge/Langage-Python-blue.svg?style=flat-square)](https://www.python.org/) [![npm](https://img.shields.io/npm/l/date-2.svg?style=flat-square)](https://github.com/touir1/Date2/blob/master/LICENSE)
+[![npm](https://img.shields.io/badge/langage-Python-blue.svg?style=flat-square)](https://www.python.org/) [![npm](https://img.shields.io/npm/l/date-2.svg?style=flat-square)](https://github.com/touir1/Date2/blob/master/LICENSE)
 
 A simple code to test out the sentiment analysis using tweepy and textblob
 
