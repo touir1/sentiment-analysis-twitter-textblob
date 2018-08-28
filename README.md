@@ -1,5 +1,5 @@
 # sentiment-analysis-twitter-textblob
-[![npm](https://img.shields.io/badge/langage-Python-blue.svg?style=flat-square)](https://www.python.org/) [![npm](https://img.shields.io/npm/l/date-2.svg?style=flat-square)](https://github.com/touir1/Date2/blob/master/LICENSE)
+[![npm](https://img.shields.io/badge/langage-Python-blue.svg?style=flat-square)](https://www.python.org/) [![npm](https://img.shields.io/npm/l/date-2.svg?style=flat-square)](https://github.com/touir1/sentiment-analysis-twitter-textblob/blob/master/LICENSE)
 
 A simple code to test out the sentiment analysis using tweepy and textblob
 
@@ -7,11 +7,14 @@ To use the code, we need at first to get the API configuration strings (Consumer
 
 This project is part of the <b>#100DaysOfMLCode</b> challenge proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
-[jupyter notebook](http://nbviewer.jupyter.org/github/touir1/sentiment-analysis-twitter-textblob/blob/master/twitterSentimentAnalysis.ipynb)
+## Jupyter notebooks ##
+To visualize the jupyter notebooks content, you can use the links below.
+
+Sentiment analysis: [twitterSentimentAnalysis.ipynb](http://nbviewer.jupyter.org/github/touir1/sentiment-analysis-twitter-textblob/blob/master/twitterSentimentAnalysis.ipynb)
 
 ## Dependencies ##
-* tweepy: _pip install -U tweepy_
-* textblob: _pip install -U textblob_
+* [tweepy](http://www.tweepy.org/): _pip install -U tweepy_
+* [textblob](https://textblob.readthedocs.io/en/dev/): _pip install -U textblob_
 
 ## Authors ##
 
