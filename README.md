@@ -16,6 +16,15 @@ Sentiment analysis: [twitterSentimentAnalysis.ipynb](http://nbviewer.jupyter.org
 * [tweepy](http://www.tweepy.org/): _pip install -U tweepy_
 * [textblob](https://textblob.readthedocs.io/en/dev/): _pip install -U textblob_
 
+## How to run ##
+* Execute: jupyter notebook
+* In the jupyter notebook web app, open the corresponding .ipynb file.
+
+<b>Note:</b> If you are unfamiliar with [jupyter](http://jupyter.org/) notebook, you can visit their website to learn more:
+* How to install: [http://jupyter.org/install](http://jupyter.org/install).
+* How to run: [https://jupyter.readthedocs.io/en/latest/running.html](https://jupyter.readthedocs.io/en/latest/running.html).
+* Full documentation: [https://jupyter.org/documentation](https://jupyter.org/documentation).
+
 ## Authors ##
 
 * Mohamed Ali Touir
